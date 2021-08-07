@@ -1,0 +1,44 @@
+
+newmtl StandardCAE7F5
+Kd  0.79215696 0.9058824 0.96078432
+Ks  00 00 00
+Ka  00 00 00
+d  01
+Ns  00
+illum 2
+
+
+
+
+newmtl Standard79E3FF
+Kd  0.4745098 0.89019608 01
+Ks  00 00 00
+Ka  00 00 00
+d  01
+Ns  00
+illum 2
+
+
+
+
+newmtl StandardFAFAFA
+Kd  0.9803922 0.9803922 0.9803922
+Ks  00 00 00
+Ka  00 00 00
+d  01
+Ns  00
+illum 2
+
+
+
+
+newmtl Standard110A05
+Kd  0.066666676 0.039215688 0.019607844
+Ks  00 00 00
+Ka  00 00 00
+d  01
+Ns  00
+illum 2
+
+
+

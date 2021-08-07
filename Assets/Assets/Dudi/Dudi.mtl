@@ -1,0 +1,55 @@
+
+newmtl CartoonFB5076
+Kd  0.98431392 0.3137255 0.46274504
+Ks  00 00 00
+Ka  00 00 00
+d  01
+Ns  00
+illum 2
+
+
+
+
+newmtl Cartoon323A42
+Kd  0.19607844 0.22745098 0.25882352
+Ks  00 00 00
+Ka  00 00 00
+d  01
+Ns  00
+illum 2
+
+
+
+
+newmtl Reflective000000
+Kd  00 00 00
+Ks  0.8 0.8 0.8
+Ka  00 00 00
+d  01
+Ns  925
+illum 5
+
+
+
+
+newmtl CartoonE5FDFF
+Kd  0.8980392 0.99215688 01
+Ks  00 00 00
+Ka  00 00 00
+d  01
+Ns  00
+illum 2
+
+
+
+
+newmtl Cartoon202020
+Kd  0.1254902 0.1254902 0.1254902
+Ks  00 00 00
+Ka  00 00 00
+d  01
+Ns  00
+illum 2
+
+
+
